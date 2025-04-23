@@ -1,6 +1,6 @@
 # fuzzyIncendios
 
-> Ferramenta interativa para avaliação do risco de incêndios florestais usando **lógica fuzzy** e **simulação de Monte Carlo**, implementada como aplicativo **Shiny** em **R**.
+> APlicativo interativo para avaliação do risco de incêndios florestais usando **lógica fuzzy** e **simulação de Monte Carlo**, implementada como aplicativo **Shiny** em **R**.
 
 ---
 
